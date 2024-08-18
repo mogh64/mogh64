@@ -7,7 +7,8 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/mogh64)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mortaza-ghahramani-48349a49/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mortaza.ghahremani@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-mortaza-ghahremani-blue?logo=medium)](https://mortaza-ghahremani.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-mortaza--ghahremani-blue?logo=medium&logoColor=white)](https://mortaza-ghahremani.medium.com/)
+
 &nbsp;
 ## I'm a Senior Java backend Engineer , with passionate in scalabale and resilient systems design!
 
